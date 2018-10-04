@@ -3,7 +3,7 @@ Simple app using Electron, Node.js
 
 ## Usage
 
-Make sure you have NodeJs installed
+Make sure you have [NodeJs](https://nodejs.org/en/download/) installed
 
 Install Dependencies
 ```sh
@@ -15,10 +15,6 @@ Run Server
 $ npm start
 ```
 
-[Install Redis](https://redis.io/topics/quickstart)
 
 ## More info
-[Redis](https://redis.io/commands/)
-
-Visit http://localhost:3000
 
